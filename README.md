@@ -1,0 +1,2 @@
+# strider
+Advance Text Editor
